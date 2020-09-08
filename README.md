@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/chittari-naveen-raj/)  
 
 
 <a href="https://www.linkedin.com/in/chittari-naveen-raj/"> 
