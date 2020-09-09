@@ -1,6 +1,6 @@
 ### Hello World,am Naveen Raj 👋
 
-
+<img align ="right" src = "https://www.seekpng.com/ima/u2q8y3a9e6i1a9q8/" width="150" height="150">
 
 Here are some ideas to get you started:
 
