@@ -1,6 +1,6 @@
 ### Hello World,am Naveen Raj 👋
 
-<img align ="right" src = "https://www.seekpng.com/png/full/95-959161_programmer-cartoon.png" width="150" height="150">
+<img align ="right" src = "https://www.seekpng.com/png/full/95-959161_programmer-cartoon.png" width="200" height="200">
 
 Here are some ideas to get you started:
 
