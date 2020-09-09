@@ -1,6 +1,6 @@
 ### Hello World,am Naveen Raj 👋
 
-<img align ="right" src = "https://s0.2mdn.net/5406241/JiraSoftware__728x90_3.jpg" width="150" height="150">
+<img align ="right" src = "https://www.seekpng.com/png/full/95-959161_programmer-cartoon.png" width="150" height="150">
 
 Here are some ideas to get you started:
 
