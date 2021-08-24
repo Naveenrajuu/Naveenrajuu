@@ -1,6 +1,6 @@
 ### Hello World,am Naveen Raj 👋
 
-<img align ="right" src = "https://pps.whatsapp.net/v/t61.24694-24/144451134_4214903961935023_6442166718354073336_n.jpg?ccb=11-4&oh=4b83eec6e91b11bc47ad9f17e724f74c&oe=61297395" width="200" height="200">
+<img align ="right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fprogrammer_animation&psig=AOvVaw336-OnSXeVHnngtTxqEgB1&ust=1629915899703000&source=images&cd=vfe&ved=2ahUKEwiSo_-CpMryAhVVF7cAHQTgAwQQjRx6BAgAEAo" width="200" height="200">
 
 Here are some ideas to get you started:
 
