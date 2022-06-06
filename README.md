@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in Data Science
 - 🌱 I’m currently learning to make machines learn
 - 👯 I’m looking to collaborate on data science projects
-- 📫 How to reach me: https://www.linkedin.com/in/chittari-naveen-raj/
+
 
 
 
