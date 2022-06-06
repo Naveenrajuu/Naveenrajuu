@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.linkedin.com/in/chittari-naveen-raj/"> 
-  <img align="left" alt="Naveen's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 <a href="https://www.instagram.com/thenaviii/">
   <img align="left" alt="Naveen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
